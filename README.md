@@ -58,6 +58,7 @@ Visit the API
 Stop the container
 docker-compose down
 Your data is stored in a Docker volume named sqlite_data.
+
 🧑‍💻 Run Locally (Without Docker)
 
 Requires Python 3.10+ installed.
